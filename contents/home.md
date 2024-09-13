@@ -1,16 +1,9 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently a research assistant in the Department of Computer Science at City University of Hong Kong, supervised by [Prof. Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/). Prior to this, I completed my MSc in Data Analytics and Artificial Intelligence in the Department of Computer Science at Hong Kong Baptist University, supervised by [Prof. Lu Zhang](https://www.comp.hkbu.edu.hk/~ericluzhang/).
 
 #### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+23406933[at]life.hkbu.edu.hk
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Human Computer Interaction, Human AI Collaboration, Security and Privacy

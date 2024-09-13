@@ -1,9 +1,2 @@
-- First-prize Academic Scholarship, 2023.
+-Hong Kong Baptist University MSc Research Scholarship HKD 5000 (the only recipient in the DAAI programme), 2023.
 
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
