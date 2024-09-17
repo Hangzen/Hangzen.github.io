@@ -1,4 +1,4 @@
-- <strong>Xiangzhe Yuan</strong>, Jiajun Wang, Siying Hu, Andrew Cheung ,and Zhicong Lu (2024). <strong>KoroT-3E: A Personalized Musical Mnemonics Tool for Enhancing Memory Retention of Complex Computer Science Concepts.</strong> <strong>CHI'2025 Under Review,</strong> <a href="https://arxiv.org/abs/2409.10446">arXiv</a>.
+- <strong>Xiangzhe Yuan</strong>, Jiajun Wang, Siying Hu, Andrew Cheung ,and Zhicong Lu (2024). <strong>KoroT-3E: A Personalized Musical Mnemonics Tool for Enhancing Memory Retention of Complex Computer Science Concepts.</strong> <strong>CHI'2025 Under Review<strong>, [arXiv](https://arxiv.org/abs/2409.10446)
 
 - Siying Hu, <strong>Xiangzhe Yuan</strong>, Jiajun Wang, PiaoHong Wang, Jian Ma, Zhiyang WU, Qian Wan, and Zhicong Lu (2024). Sportoonizer: Augmenting Sports Highlights' Narration and Visual Impact via Automatic Manga B-Roll Generation.<strong>CHI'2025 Under Review.</strong> 
 
