@@ -1,6 +1,6 @@
 ### About Me
 
-[![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Scholar_logo.svg)](https://scholar.google.com/citations?user=IEItd-kAAAAJ&hl=zh-CN&oi=ao)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=IEItd-kAAAAJ&hl=zh-CN&oi=ao)
 
 I am currently a research assistant in the Department of Computer Science at City University of Hong Kong, supervised by [Prof. Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/). Prior to this, I completed my MSc in Data Analytics and Artificial Intelligence in the Department of Computer Science at Hong Kong Baptist University, supervised by [Prof. Lu Zhang](https://www.comp.hkbu.edu.hk/~ericluzhang/).
 
